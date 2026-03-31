@@ -4,7 +4,7 @@ A fun, interactive word-guessing game built with React!
 Your main objective is to guess the hidden word within eight tries. Each wrong guess chips away at your computer's "Assembly" of programming languages, bringing you closer to utter frustration. Save the tech stack or face the dreadful *Endgame*!
 
 ## 🚀 Live Demo
-**[Insert Netlify / Vercel Live Link Here]**
+**https://assemblyendgame124.netlify.app/**
 
 ## ✨ Features
 - **React 18**: Built with the latest functional React.
